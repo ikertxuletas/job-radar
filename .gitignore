@@ -1,0 +1,9 @@
+# personal profile and run state: never commit
+profile.md
+seen.json
+latest.html
+reports/
+adzuna.local.json
+.env
+*.log
+__pycache__/
